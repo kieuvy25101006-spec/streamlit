@@ -1,0 +1,3 @@
+streamlt
+numpy
+mathplotlib
